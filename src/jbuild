@@ -1,1 +1,3 @@
-(library ((name math_utils)))
+(library
+ ((name math_utils)
+  (public_name math-utils)))

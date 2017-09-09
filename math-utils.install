@@ -1,0 +1,20 @@
+lib: [
+  "_build/install/default/lib/math-utils/META" {"META"}
+  "_build/install/default/lib/math-utils/opam" {"opam"}
+  "_build/install/default/lib/math-utils/math_utils__Fact.cmi"
+  "_build/install/default/lib/math-utils/math_utils__Fact.cmx"
+  "_build/install/default/lib/math-utils/math_utils__Fact.cmt"
+  "_build/install/default/lib/math-utils/math_utils__Fact.cmti"
+  "_build/install/default/lib/math-utils/fact.mli"
+  "_build/install/default/lib/math-utils/math_utils.cmi"
+  "_build/install/default/lib/math-utils/math_utils.cmx"
+  "_build/install/default/lib/math-utils/math_utils.cmt"
+  "_build/install/default/lib/math-utils/math_utils.ml-gen"
+  "_build/install/default/lib/math-utils/math_utils.cma"
+  "_build/install/default/lib/math-utils/math_utils.cmxa"
+  "_build/install/default/lib/math-utils/math_utils.a"
+  "_build/install/default/lib/math-utils/math_utils.cmxs"
+]
+doc: [
+  "_build/install/default/doc/math-utils/README.md"
+]
