@@ -1,3 +1,8 @@
+#Jbuilder talk notes
+
+https://www.youtube.com/watch?v=xGf_NCZUios
+
+##Some useful commands
 
 ```
 jbuilder build src/math_utils.cma
@@ -21,4 +26,8 @@ jbuilder exec -- mu-fact --help
 ```
 jbuilder build
 jbuilder exec man mu-fact
+```
+
+```
+jbuilder external-lib-deps @install
 ```

@@ -1,6 +1,7 @@
 (executable
  ((name fact)
   (public_name mu-fact)
+  (package math-utils-bin)
   (libraries (math-utils cmdliner))))
 
 (rule
@@ -10,4 +11,5 @@
 
 (install
  ((section man)
+  (package math-utils-bin)
   (files (mu-fact.1))))

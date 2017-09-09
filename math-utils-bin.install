@@ -1,0 +1,13 @@
+lib: [
+  "_build/install/default/lib/math-utils-bin/META" {"META"}
+  "_build/install/default/lib/math-utils-bin/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/mu-fact" {"mu-fact"}
+]
+doc: [
+  "_build/install/default/doc/math-utils-bin/README.md"
+]
+man: [
+  "_build/install/default/man/man1/mu-fact.1"
+]
