@@ -1,6 +1,8 @@
 #Jbuilder talk notes
 
-https://www.youtube.com/watch?v=xGf_NCZUios
+Video https://www.youtube.com/watch?v=xGf_NCZUios
+
+Summary http://ocamllabs.io/events/2017/05/26/JbuilderDemo.html
 
 ##Some useful commands
 
