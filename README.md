@@ -11,3 +11,14 @@ jbuilder exec utop
 jbuilder exec bash
 > echo $OCAMLPATH
 ```
+
+```
+jbuilder build bin/fact.exe
+jbuilder build
+jbuilder exec -- mu-fact --help
+```
+
+```
+jbuilder build
+jbuilder exec man mu-fact
+```

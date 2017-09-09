@@ -15,6 +15,12 @@ lib: [
   "_build/install/default/lib/math-utils/math_utils.a"
   "_build/install/default/lib/math-utils/math_utils.cmxs"
 ]
+bin: [
+  "_build/install/default/bin/mu-fact" {"mu-fact"}
+]
 doc: [
   "_build/install/default/doc/math-utils/README.md"
+]
+man: [
+  "_build/install/default/man/man1/mu-fact.1"
 ]

@@ -1,0 +1,13 @@
+(executable
+ ((name fact)
+  (public_name mu-fact)
+  (libraries (math-utils cmdliner))))
+
+(rule
+ ((targets (mu-fact.1))
+  (deps    (fact.exe))
+  (action  (with-stdout-to ${@} (run ${<} --help=groff)))))
+
+(install
+ ((section man)
+  (files (mu-fact.1))))
