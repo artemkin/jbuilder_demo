@@ -1,10 +1,10 @@
-#Jbuilder talk notes
+# Jbuilder talk notes
 
 Video https://www.youtube.com/watch?v=xGf_NCZUios
 
 Summary http://ocamllabs.io/events/2017/05/26/JbuilderDemo.html
 
-##Some useful commands
+## Some useful commands
 
 ```
 jbuilder build src/math_utils.cma
