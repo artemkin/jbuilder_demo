@@ -31,3 +31,7 @@ jbuilder exec man mu-fact
 ```
 jbuilder external-lib-deps @install
 ```
+
+```
+jbuilder build --dev
+```
